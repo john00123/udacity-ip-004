@@ -27,8 +27,8 @@ theDarkKnight = media.Movie('The Dark Knight', ('''When the menace known as
 wallE = media.Movie('WALL E', ('''In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.'''), 'https://images-na.ssl-images-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_UX182_CR0,0,182,268_AL_.jpg', 'https://www.youtube.com/watch?v=8-_9n5DtKOc')
 
 pansLabyrinth = media.Movie('''Pan's Labyrinth''', ('''In the falangist Spain
-of 1944, the bookish young stepdaughter of a sadistic army officer escapes
-into an eerie but captivating fantasy world.'''), 'https://images-na.ssl-images-amazon.com/images/M/MV5BMTU3ODg2NjQ5NF5BMl5BanBnXkFtZTcwMDEwODgzMQ@@._V1_UY268_CR0,0,182,268_AL_.jpg', 'https://www.youtube.com/watch?v=E7XGNPXdlGQ')
+ of 1944, the bookish young stepdaughter of a sadistic army officer escapes
+ into an eerie but captivating fantasy world.'''), 'https://images-na.ssl-images-amazon.com/images/M/MV5BMTU3ODg2NjQ5NF5BMl5BanBnXkFtZTcwMDEwODgzMQ@@._V1_UY268_CR0,0,182,268_AL_.jpg', 'https://www.youtube.com/watch?v=E7XGNPXdlGQ')
 
 movies = [inception, bigHero6, spiderMan, theDarkKnight, wallE, pansLabyrinth]
 
