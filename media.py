@@ -10,6 +10,6 @@ class Movie():
         self.poster_image_url = poster_image
         self.trailer_youtube_url = trailer_youtube
 
-    # This triggers a webbrowser behavior to open the trailer ur.
+    # This triggers a webbrowser behavior to open the trailer url.
     def show_trailer(self):
         webbrowser.open(self.trailer_youtube_url)
