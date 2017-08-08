@@ -4,7 +4,10 @@ import webbrowser
 
 class Movie():
     # This initiates the class behavior. Maps movie data to class.
-    def __init__(self, movie_title, movie_storyline, poster_image, trailer_youtube):
+    def __init__(
+        self, movie_title, movie_storyline, poster_image,
+        trailer_youtube
+    ):
         self.title = movie_title
         self.storyline = movie_storyline
         self.poster_image_url = poster_image
