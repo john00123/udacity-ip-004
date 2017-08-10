@@ -6,10 +6,13 @@ Code was written to store all the list of my favorite current movies, including 
 ###### Website functionality
 The website allows you to navigate through a grid base interface of box art imagery. Once a movie has been selected, there movie trailer will be shown to the user.
 
+##### How to run the program
+To access the final design, you need to open the file `fresh_tomatoes.py` in a terminal or batch interface with python installed. Then an index.html file will be available to be viewed using your browser.
+
 ### Developer notes:
 The project was built using python.
-The movie variables has been created by using Classes.  ```media.py```.
-Then the ```fresh_tomatoes.py``` file defines the html with styles to be created.
+The movie variables have been created by using Classes defined in `media.py`.
+Then the `fresh_tomatoes.py` file defines the html with styles to be created.
 
 There are 3 files in this project:
  - entretainment_center.py - has the main information for the movies metadata.
