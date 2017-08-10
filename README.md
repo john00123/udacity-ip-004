@@ -12,6 +12,6 @@ The movie variables has been created by using Classes.  ```media.py```.
 Then the ```fresh_tomatoes.py``` file defines the html with styles to be created.
 
 There are 3 files in this project:
- -
- -
- -
+ - entretainment_center.py - has the main information for the movies metadata.
+ - media.py -  uses browser library to open a popup using the classes provided.
+ - fresh_tomatoes.py - has the code to render an HTML site using media and entretainment_center.py
