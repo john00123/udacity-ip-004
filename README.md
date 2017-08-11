@@ -8,7 +8,9 @@ Code was written to store all the list of my favorite current movies, including 
 ### Website functionality
 The website allows you to navigate through a grid base interface of box art imagery. Once a movie has been selected, there movie trailer will be shown to the user.
 
-###
+### Prerequisites
+- Python 2.7 (https://www.python.org/download/releases/2.7/#download)
+- Terminal.app or Command line equivalent (Command Prompt on Windows).
 
 ### Installation
 Run 
