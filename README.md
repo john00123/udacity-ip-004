@@ -8,6 +8,8 @@ Code was written to store all the list of my favorite current movies, including 
 ### Website functionality
 The website allows you to navigate through a grid base interface of box art imagery. Once a movie has been selected, there movie trailer will be shown to the user.
 
+---
+
 ### Prerequisites
 - Download [Python 2.7](https://www.python.org/download/releases/2.7/#download)
 - Terminal or a Command line equivalent interface (Command Prompt on Windows).
@@ -25,6 +27,8 @@ $ cd /Users/Yourname/Downloads/udacity004-master
 udacity004-master$  python entretaiment_center.py
 ```
 > Ignore everything before `$` as is meant to represent the directory change in the process. 
+
+---
 
 ### Developer notes:
 The project was built using python.
