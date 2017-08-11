@@ -3,7 +3,7 @@
 
 
 ### Create a movie website Summary
-Code was written to store all the list of my favorite current movies, including box art and images hoster on **Wikipedia**. Additionally there is a link to the each movie's trailer that is hoster in **Youtube**. Code is used to generate a static web page allowing browsers to be able to read the information on a index.html file.
+Code was written to store all the list of my favorite current movies, including box art and images hosted on **Wikipedia**. Additionally there is a link to the each movie's trailer that is hoster in **Youtube**. Code is used to generate a static web page allowing browsers to be able to read the information on a index.html file.
 
 ### Website functionality
 The website allows you to navigate through a grid base interface of box art imagery. Once a movie has been selected, there movie trailer will be shown to the user.
@@ -15,7 +15,7 @@ The website allows you to navigate through a grid base interface of box art imag
 ### Installation
 - Download or clone this [Project](https://github.com/john00123/udacity004).
 - Once downloaded, open terminal and navigate to the project's directory on your local machine.
-(An easy way to achieve this is by typing `cd` and draggin the folder onto the command window)
+__(An easy way to achieve this is by typing `cd` and dragging the folder onto the command window)__
 - Once you are in the correct directory run `python entretainment_center.py` to generate the html.
 
 ### Developer notes:
