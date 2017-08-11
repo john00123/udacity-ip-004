@@ -24,6 +24,7 @@ The website allows you to navigate through a grid base interface of box art imag
 $ cd /Users/Yourname/Downloads/udacity004-master
 udacity004-master$  python entretaiment_center.py
 ```
+> Ignore everything before `$` as is meant to represent the directory change in the process. 
 
 ### Developer notes:
 The project was built using python.
