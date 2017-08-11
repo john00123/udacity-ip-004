@@ -15,8 +15,15 @@ The website allows you to navigate through a grid base interface of box art imag
 ### Installation
 - Download or clone this [Project](https://github.com/john00123/udacity004).
 - Once downloaded, open terminal and navigate to the project's directory on your local machine.
-__(An easy way to achieve this is by typing `cd` and dragging the folder onto the command window)__
+> An easy way to achieve this in Terminal is by typing `cd` and dragging the folder onto the command window)
 - Once you are in the correct directory run `python entretainment_center.py` to generate the html.
+
+### Installation Example
+
+```Python
+$ cd /Users/Yourname/Downloads/udacity004-master
+udacity001-master$  python entretaiment_center.py
+```
 
 ### Developer notes:
 The project was built using python.
