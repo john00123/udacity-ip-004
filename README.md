@@ -9,11 +9,14 @@ Code was written to store all the list of my favorite current movies, including 
 The website allows you to navigate through a grid base interface of box art imagery. Once a movie has been selected, there movie trailer will be shown to the user.
 
 ### Prerequisites
-- Python 2.7 (https://www.python.org/download/releases/2.7/#download)
-- Terminal.app or Command line equivalent (Command Prompt on Windows).
+- Download [Python 2.7](https://www.python.org/download/releases/2.7/#download)
+- Terminal or a Command line equivalent interface (Command Prompt on Windows).
 
 ### Installation
-Run 
+- Download or clone this [Project](https://github.com/john00123/udacity004).
+- Once downloaded, open terminal and navigate to the project's directory on your local machine.
+(An easy way to achieve this is by typing `cd` and draggin the folder onto the command window)
+- Once you are in the correct directory run `python entretainment_center.py` to generate the html.
 
 ### Developer notes:
 The project was built using python.
