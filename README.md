@@ -22,7 +22,7 @@ The website allows you to navigate through a grid base interface of box art imag
 
 ```Python
 $ cd /Users/Yourname/Downloads/udacity004-master
-udacity001-master$  python entretaiment_center.py
+udacity004-master$  python entretaiment_center.py
 ```
 
 ### Developer notes:
