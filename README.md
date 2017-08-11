@@ -1,5 +1,7 @@
 # Udacity Full Stack Developer Nanodegree Program
 ### Programming Fundamentals
+
+
 ### Create a movie website Summary
 Code was written to store all the list of my favorite current movies, including box art and images hoster on **Wikipedia**. Additionally there is a link to the each movie's trailer that is hoster in **Youtube**. Code is used to generate a static web page allowing browsers to be able to read the information on a index.html file.
 
@@ -20,6 +22,7 @@ There are 3 files in this project:
  - entretainment_center.py - has the main information for the movies metadata.
  - media.py -  uses browser library to open a popup using the classes provided.
  - fresh_tomatoes.py - has the code to render an HTML site using media and entretainment_center.py
+
 
 ## License
 MIT License
